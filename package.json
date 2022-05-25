@@ -1,6 +1,8 @@
 {
   "name": "infinite-scroll-with-react-js",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "infinite scroll with react / javascript",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -37,5 +39,23 @@
   },
   "devDependencies": {
     "prettier": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dsikeres1/infinite-scroll-with-react-js.git"
+  },
+  "keywords": [
+    "infinite-scroll",
+    "infinite",
+    "scroll",
+    "react",
+    "js",
+    "javascript"
+  ],
+  "author": "dsikeres1@gmail.com",
+  "license": "MIT",
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.0.0"
   }
 }
